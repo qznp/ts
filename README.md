@@ -1,0 +1,2 @@
+# ts
+typescripte demo
