@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: your name
+ * @Date: 2023-03-27 18:03:03
+ * @LastEditors: your name
+ * @LastEditTime: 2023-03-27 18:07:35
+-->
 # ts
 typescripte demo
 
@@ -11,3 +18,4 @@ typescripte demo
 
 ### Demo1：测试
 ### Demo2：基础类型
+### Demo3: 变量声明
