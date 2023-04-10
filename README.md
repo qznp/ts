@@ -3,7 +3,7 @@
  * @Author: your name
  * @Date: 2023-03-27 18:03:03
  * @LastEditors: your name
- * @LastEditTime: 2023-03-28 11:01:39
+ * @LastEditTime: 2023-04-06 10:34:05
 -->
 # ts
 typescripte demo
@@ -20,3 +20,4 @@ typescripte demo
 ### Demo2：基础类型
 ### Demo3: 变量声明
 ### Demo4: 接口
+### Demo5: 类
